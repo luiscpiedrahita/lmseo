@@ -4,7 +4,18 @@ web/app/plugins/*
 web/app/mu-plugins/*/
 web/app/themes/twentytwentyfive/
 web/app/upgrade
+
+#Stop tracking Uploads folder contents except images and keep the folder
+web/app/uploads/*
+!/web/app/uploads/**/*.avif
+!/web/app/uploads/**/*.jpg
+!/web/app/uploads/**/*.jpeg
+!/web/app/uploads/**/*.png
+!/web/app/uploads/**/*.gif
+!/web/app/uploads/**/*.webp
+!/web/app/uploads/**/*.svg
 !web/app/uploads/.gitkeep
+
 web/app/cache/*
 
 # WordPress
