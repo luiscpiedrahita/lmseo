@@ -19,14 +19,14 @@ Env\Env::$options = 31;
  *
  * @var string
  */
-$root_dir = dirname(__DIR__);
+$root_dir = dirname(__DIR__,2) . '/data';
 
 /**
  * Document Root
  *
  * @var string
  */
-$webroot_dir = $root_dir . '/web';
+$webroot_dir = dirname(__DIR__) . '/web';
 
 /**
  * Use Dotenv to set required environment variables and load .env file in root
