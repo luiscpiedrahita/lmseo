@@ -22,7 +22,7 @@ web/testing/*
 
 # WordPress
 web/wp
-web/.htaccess
+# web/.htaccess
 
 # Logs
 *.log
