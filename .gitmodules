@@ -1,3 +1,6 @@
 [submodule "LMSEO"]
 	path = web/app/themes/helios
 	url = https://github.com/luiscpiedrahita/LMSEO
+[submodule "/Users/luis/Documents/dev/LAMP/valet/lmseo/web/app/themes/protos"]
+	path = /Users/luis/Documents/dev/LAMP/valet/lmseo/web/app/themes/protos
+	url = git@github.com:luiscpiedrahita/Protos.git
