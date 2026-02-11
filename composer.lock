@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f1a4e53eca19ae3bab74a3855536c6fa",
+    "content-hash": "9936a3b7f60d8149720d576f477babeb",
     "packages": [
         {
             "name": "brick/math",
@@ -7513,15 +7513,15 @@
         },
         {
             "name": "wpackagist-plugin/sucuri-scanner",
-            "version": "1.9.6",
+            "version": "2.6",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/sucuri-scanner/",
-                "reference": "tags/1.9.6"
+                "reference": "tags/2.6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/sucuri-scanner.1.9.6.zip"
+                "url": "https://downloads.wordpress.org/plugin/sucuri-scanner.2.6.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
