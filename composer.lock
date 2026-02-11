@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "3d2332f46dde3f27fa0b4e64042be7a7",
+    "content-hash": "c6b092ca90394e613b03099e7564f900",
     "packages": [
         {
             "name": "brick/math",
@@ -7171,15 +7171,15 @@
         },
         {
             "name": "wpackagist-plugin/auto-sizes",
-            "version": "1.3.0",
+            "version": "1.7.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/auto-sizes/",
-                "reference": "tags/1.3.0"
+                "reference": "tags/1.7.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/auto-sizes.1.3.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/auto-sizes.1.7.0.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
