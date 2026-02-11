@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8dee233bc4223102128ab7dacde5d783",
+    "content-hash": "3d2332f46dde3f27fa0b4e64042be7a7",
     "packages": [
         {
             "name": "brick/math",
@@ -7153,15 +7153,15 @@
         },
         {
             "name": "wpackagist-plugin/advanced-database-cleaner",
-            "version": "3.1.7",
+            "version": "4.0.6",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/advanced-database-cleaner/",
-                "reference": "tags/3.1.7"
+                "reference": "tags/4.0.6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/advanced-database-cleaner.3.1.7.zip"
+                "url": "https://downloads.wordpress.org/plugin/advanced-database-cleaner.4.0.6.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
