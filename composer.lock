@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4834e8ba751ee3b42367f7bc4ea00af0",
+    "content-hash": "5040a516e6dc42fcd23e90c5d09e24a3",
     "packages": [
         {
             "name": "brick/math",
@@ -7621,15 +7621,15 @@
         },
         {
             "name": "wpackagist-plugin/wpdiscuz",
-            "version": "7.6.27",
+            "version": "7.6.46",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wpdiscuz/",
-                "reference": "tags/7.6.27"
+                "reference": "tags/7.6.46"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wpdiscuz.7.6.27.zip"
+                "url": "https://downloads.wordpress.org/plugin/wpdiscuz.7.6.46.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
